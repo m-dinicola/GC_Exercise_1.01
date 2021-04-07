@@ -6,25 +6,20 @@ namespace _1._01_GC_Excercise_W1E2
     {
         static void Main(string[] args)
         {
-            uint age, offset; // unsigned to allow TryParse to handle validity testing
-            Console.Write("Please enter your name: ");
-            string name = Console.ReadLine();
-            Console.Write("Please enter your age (numerical positive integer): ");
-            while (!uint.TryParse(Console.ReadLine(), out age))  //will repeat read/write until TryParse resolve
+            uint length, width; // unsigned to allow TryParse to handle validity testing
+            Console.Write("Please enter the room's length (numerical positive integer): ");
+            while (!uint.TryParse(Console.ReadLine(), out length))  //will repeat read/write until TryParse resolves
             {
-                Console.Write("Invalid. Enter a valid age, please: ");
+                Console.Write("Invalid. Enter a valid length, please: ");
             }
-            Console.Write("How far in the future (positive integer yrs) do you wish to look? ");
-            while (!uint.TryParse(Console.ReadLine(), out offset)) //same as previous loop
+            Console.Write("Please enter the room's width (numerical positive integer): ");
+            while (!uint.TryParse(Console.ReadLine(), out width)) //same as previous loop
             {
-                Console.Write("Invalid. Enter a valid future offset, please: ");
+                Console.Write("Invalid. Enter a valid width, please: ");
             }
-            age += offset;
-            string ageUnits = (age == 1) ? " year" : " years";     //creating units string to handle plurals
-            string offsetUnits = (offset == 1) ? " year" : " years";  //same as above
-            Console.WriteLine(name + ", I have peered through the veil of time... \n" +  //putting it all together
-                                     "...you will be " + age + ageUnits + " old in " +
-                                     offset + offsetUnits + "... IF YOU ARE LIVING!");
+            length *= width;                                          //length is now actually an area
+            string areaUnits = length.ToString()+ ((length == 1) ? " square foot" : " square feet");  //creating string to handle num & plurals
+            Console.WriteLine("Your room has an area of " + areaUnits); //putting it all together
         }
     }
 }

@@ -1,0 +1,13 @@
+U:\Mario\source\repos\1.01_GC_Excercise_W1E2\1.01_GC_Excercise_W1E2\bin\Debug\netcoreapp3.1\1.01_GC_Excercise_W1E2.exe
+U:\Mario\source\repos\1.01_GC_Excercise_W1E2\1.01_GC_Excercise_W1E2\bin\Debug\netcoreapp3.1\1.01_GC_Excercise_W1E2.deps.json
+U:\Mario\source\repos\1.01_GC_Excercise_W1E2\1.01_GC_Excercise_W1E2\bin\Debug\netcoreapp3.1\1.01_GC_Excercise_W1E2.runtimeconfig.json
+U:\Mario\source\repos\1.01_GC_Excercise_W1E2\1.01_GC_Excercise_W1E2\bin\Debug\netcoreapp3.1\1.01_GC_Excercise_W1E2.runtimeconfig.dev.json
+U:\Mario\source\repos\1.01_GC_Excercise_W1E2\1.01_GC_Excercise_W1E2\bin\Debug\netcoreapp3.1\1.01_GC_Excercise_W1E2.dll
+U:\Mario\source\repos\1.01_GC_Excercise_W1E2\1.01_GC_Excercise_W1E2\bin\Debug\netcoreapp3.1\1.01_GC_Excercise_W1E2.pdb
+U:\Mario\source\repos\1.01_GC_Excercise_W1E2\1.01_GC_Excercise_W1E2\obj\Debug\netcoreapp3.1\1.01_GC_Excercise_W1E2.csprojAssemblyReference.cache
+U:\Mario\source\repos\1.01_GC_Excercise_W1E2\1.01_GC_Excercise_W1E2\obj\Debug\netcoreapp3.1\1.01_GC_Excercise_W1E2.AssemblyInfoInputs.cache
+U:\Mario\source\repos\1.01_GC_Excercise_W1E2\1.01_GC_Excercise_W1E2\obj\Debug\netcoreapp3.1\1.01_GC_Excercise_W1E2.AssemblyInfo.cs
+U:\Mario\source\repos\1.01_GC_Excercise_W1E2\1.01_GC_Excercise_W1E2\obj\Debug\netcoreapp3.1\1.01_GC_Excercise_W1E2.csproj.CoreCompileInputs.cache
+U:\Mario\source\repos\1.01_GC_Excercise_W1E2\1.01_GC_Excercise_W1E2\obj\Debug\netcoreapp3.1\1.01_GC_Excercise_W1E2.dll
+U:\Mario\source\repos\1.01_GC_Excercise_W1E2\1.01_GC_Excercise_W1E2\obj\Debug\netcoreapp3.1\1.01_GC_Excercise_W1E2.pdb
+U:\Mario\source\repos\1.01_GC_Excercise_W1E2\1.01_GC_Excercise_W1E2\obj\Debug\netcoreapp3.1\1.01_GC_Excercise_W1E2.genruntimeconfig.cache
